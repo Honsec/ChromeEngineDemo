@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChromeEngineDemo</string>
+    <string name="default_encoding">text/plain</string>
+</resources>
